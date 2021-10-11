@@ -16,13 +16,7 @@
 <body>
     <?php require 'menu.php';?>
 
-        <h3>PRODUK</h3>
-        <?php $detail = array ('Name barang: Drinking water', 'Size: 500ml ' , 'Harga: 70sen') ; ?>
-        <ul>
-            <li><?php echo $detail[0]; ?></li>
-            <li><?php echo $detail[1]; ?></li>
-            <li><?php echo $detail[2]; ?></li>
-        </ul>
+        
 
     
 </body>
